@@ -1,0 +1,14 @@
+header {
+    /* background: white; */
+    display: flex;
+    justify-content: center;
+    border-bottom: 1px solid ghostwhite;
+    flex-direction: column;
+    align-items: center;
+}
+
+header img {
+    width: 300px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
