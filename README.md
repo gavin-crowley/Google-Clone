@@ -6,7 +6,7 @@
 
 <h4 align="center">A clone of the google search engine using RapidAPI</h4>
 
-![GIF demo](./src/assets/google-clone-app.gif.gif)
+![GIF demo](./src/assets/google-clone-app.gif)
 
 
 ## Features
